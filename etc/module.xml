@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Digital Labs Agency
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the GiaPhuGroup.com license that is
+ * available through the world-wide-web at this URL:
+ * https://digitallabs.agency/LICENSE.txt
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade this extension to newer
+ * version in the future.
+ *
+ * @category    DigitalLabs
+ * @package     DigitalLabs_CurrencySymbolPosition
+ * @copyright   Copyright (c) 2021 Digital Labs Agency All rights reserved. (http://digitallabs.agency/)
+ * @license     https://digitallabs.agency/LICENSE.txt
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="DigitalLabs_CurrencySymbolPosition" setup_version="2.1.0" />
+</config>
